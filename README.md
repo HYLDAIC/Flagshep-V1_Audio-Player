@@ -11,12 +11,12 @@ The **Flagshep** is an Audio Player pilot project with the purpose of reducing m
 - High Quality Audio Diffusion 
 - USB-C Charging and Flashing 
 ## Specifications 
-- **Processor :** ESP32 S3
+- **Processor :** ESP32-S3 (2 Core 240MHz)
 - **Flash :** 8MB quad SPI Flash
 - **RAM :** 8MB quad SPI SRAM
 - **Display :** 0.96in 128x64px OLED TFT display
 - **Input :** 6 Button Matrix
 - **Storage :** MicroSD card slot
-- **Battery :** 5000mAh LiPo with integrated charging and battery management
+- **Battery :** 1000 to 5000mAh LiPo with integrated charging and battery management
 - **Connectors :** USB Type-C and TRS 3.5mm Audio Jack
 - **Dimensions :** 98.7 x 76.8 x 34.7 mm (length-width-height)
