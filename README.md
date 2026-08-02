@@ -4,7 +4,7 @@ A semi-portable Audio Player device with provided PCB files, 3D files and code
 *During Playback*
 
 ## Overview
-The **Flagshep** is an Audio Player pilot project with the purpose of reducing my dependence on ad-ridden subscription based streaming services by providing a low friction, thinker-able, reliable and high audio quality alternative.
+The **Flagshep** is a semi-portable open-source Audio Player designed to provide a reliable, high-quality offline listening experience. It's purpose is to be an alternative to advertisement-ridden subscription based streaming services. The pilot project includes the PCB design files, enclosure CAD models and firmware source code required to build upon and modify the device.
 
 # Features & Specifications 
 ## Features
@@ -12,6 +12,7 @@ The **Flagshep** is an Audio Player pilot project with the purpose of reducing m
 - USB-C Charging and Flashing 
 ## Specifications 
 - **Processor :** ESP32-S3 (2 Core 240MHz)
+- **Audio Quality :** PCM5102A ; 16-32bit at 8kHz to 384kHz
 - **Flash :** 8MB quad SPI Flash
 - **RAM :** 8MB quad SPI SRAM
 - **Display :** 0.96in 128x64px OLED TFT display
@@ -20,3 +21,18 @@ The **Flagshep** is an Audio Player pilot project with the purpose of reducing m
 - **Battery :** 1000 to 5000mAh LiPo with integrated charging and battery management
 - **Connectors :** USB Type-C and TRS 3.5mm Audio Jack
 - **Dimensions :** 98.7 x 76.8 x 34.7 mm (length-width-height)
+
+# Design 
+
+## Systems
+
+### Hardware
+
+### Firmware 
+
+# Enclosure & Build Instructions 
+
+# Future Improvements
+
+# Acknowledgements
+
