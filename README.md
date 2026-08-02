@@ -24,11 +24,9 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 
 # Design 
 
-## Systems
+## Hardware
 
-### Hardware
-
-### Firmware 
+## Firmware 
 
 # Enclosure & Build Instructions 
 
@@ -37,6 +35,6 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 # Acknowledgements
 ## Help & Design inspirations 
 - r/PrintedCircuits for help with circuit design (https://www.reddit.com/r/PrintedCircuitBoard/)
-- PocketMage by Ashtf at Talisman Designs (specs & features section and design inspiration)
+- PocketMage by Ashtf at Talisman Designs (specs & features section and design inspiration) (https://www.crowdsupply.com/talisman-design/pocketmage)
 ## Firmware
 
