@@ -4,7 +4,7 @@ A semi-portable Audio Player device with provided PCB files, 3D files and code
 *During Playback*
 
 ## Overview
-The purpose of this device is to reduce my dependence on streaming services by providing a low friction, reliable and high audio quality alternative.
+The **Flagshep** is an Audio Player with the purpose of reducing my dependence on ad-ridden subscription based streaming services by providing a low friction, reliable and high audio quality alternative.
 
 ## Specifications 
 - Processor : ESP32 S3
