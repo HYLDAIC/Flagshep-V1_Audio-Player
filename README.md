@@ -4,7 +4,7 @@ A semi-portable Audio Player device with provided PCB files, 3D files and code
 *During Playback*
 
 ## Overview
-The **Flagshep** is a semi-portable open-source Audio Player designed to provide a reliable, high-quality offline listening experience. It's purpose is to be an alternative to advertisement-ridden subscription based streaming services. The pilot project includes the PCB design files, enclosure CAD models and firmware source code required to build upon and modify the device.
+The **Flagshep** is a semi-portable open-source Audio Player designed to provide a reliable, high-quality offline listening experience. It's purpose is to be an alternative to advertisement-ridden subscription based streaming services. The pilot project includes the PCB design files, enclosure CAD models and firmware source code required to build upon, modify or simply take inspiration of the device.
 
 # Features & Specifications 
 ## Features
