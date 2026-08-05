@@ -11,7 +11,7 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 - High Quality Audio Diffusion 
 - USB-C Charging and Flashing 
 ## Specifications 
-- **Processor :** ESP32-S3 (2 Core 240MHz)
+- **Processor :** ESP32-S3 (2 Core 240MHz, 2.4 GHz Wi-Fi 150 Mbps, Bluetooth 5 (LE) )
 - **Audio Quality :** PCM5102A ; 16-32bit at 8kHz to 384kHz
 - **Flash :** 8MB quad SPI Flash
 - **RAM :** 8MB quad SPI SRAM
