@@ -27,10 +27,22 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 ## Hardware
 
 ## Firmware 
+-Coming soon!
 
 # Enclosure & Build Instructions 
+-Coming soon!
 
 # Future Improvements
+The design has notable failure points that weren't or can't be addressed in version 1.1 and would need a more substantial redesign, here are some :
+-The circuit drains significant amounts of battery on sleeping parts when the microcontroller is sleeping; physical software activated kill switch needed
+-Due to bad design around the battery; the enclosure is huge
+-The esp32 s3 is overkill for the scope of this project AND wireless isn't the focus and could've been avoided
+-Components are way too close together making assembly difficult 
+-Outside ports are hard to access (too far from outside ridge)
+-The lack of a knobs proves more difficult than expected
+-The screen is really small (this was intended but a more substantial screen could've been afforded under this battery capacity)
+-Visible screws 
+-The battery percentage chip has interference issues with nearby components and should be placed closer to the battery's connector
 
 # Acknowledgements
 ## Help & Design inspirations 
