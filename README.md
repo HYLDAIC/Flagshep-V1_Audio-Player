@@ -41,11 +41,12 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 # Enclosure & Build Instructions 
 -Coming soon to a town near you!
 
-# Successes & Future Improvements
+# Successes & Future Improvements (Hardware focused)
 ## Successes
 - The audio is smooth and doesn't have noticeable glitching or noise within playback
 - A battery life of about 32-40 hours on a 5000mAh battery (~35h of playback in an room varying from 23 to 35 degrees Celsius)
 - A smooth user experience; fairly intuitive button mapping, responsive menus and UI (tested by passing my friends the player and receiving feedback)
+- A easily accessible and removable battery/screen (4 Screws)
 
 ## Future Improvements
 The design has notable failure points that can't be addressed in version 1.1 and would need a more substantial redesign, here are some :
@@ -62,8 +63,16 @@ Issues that weren't but can be easily addressed in version 1.2 :
 - Outside ports are hard to access (too far from outside ridge)
 - Thermal relief for ground pads NEED to be added
 
+Personal issues with the design
+- Many parts of the circuit could have been separated on different boards to permit easy fixing and maintenance (e.g. board 1; power, board 2; logic, etc)
+
+## Plans for the project
+Apart from version 1.2, I plan to remake the audio player in a couple of years after I have learned more about circuit design and embedded development.
+For now, all the following improvements made to this project will made in the form of sporadic software improvements as I catch problems or wants with the device in my own usage.
+
 # Acknowledgements
 ## Help & Design inspirations 
+- My non-technical friends for support & UX feedback
 - r/PrintedCircuits for help with circuit design (https://www.reddit.com/r/PrintedCircuitBoard/)
 - PocketMage by Ashtf at Talisman Designs (specs & features section and general design inspiration) (https://www.crowdsupply.com/talisman-design/pocketmage)
 ## Firmware
