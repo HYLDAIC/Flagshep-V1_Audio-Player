@@ -55,4 +55,5 @@ The design has notable failure points that weren't or can't be addressed in vers
 - r/PrintedCircuits for help with circuit design (https://www.reddit.com/r/PrintedCircuitBoard/)
 - PocketMage by Ashtf at Talisman Designs (specs & features section and design inspiration) (https://www.crowdsupply.com/talisman-design/pocketmage)
 ## Firmware
-
+- Adafruit (GFX & SSD1306)
+- ESP32-audioI2S by Schreibfaul1
