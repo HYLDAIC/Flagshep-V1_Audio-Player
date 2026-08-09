@@ -25,11 +25,15 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 # Design 
 
 ## Hardware & Included Sensors
+- Microcontroller : ESP32 S3 Wroom 1
 - DAC Chip : PCM5102A
-- Battery charging & Protection : TP4056 & DW01A
+- Battery charging & Protection : TP4056 & DW01A + FS8205A
 - Voltage Regulator (LDO) : AP2112K-3.3
 - Battery Percentage Chip :  MAX17048G+T10
 - Battery Connector : JST XH-B2B-A
+  <img width="547" height="449" alt="image" src="https://github.com/user-attachments/assets/1f03a311-32c9-4be8-a695-4772c5a1bb5e" />
+  *Logic Depiction of the Hardware*
+
 
 ## Firmware 
 -Coming soon to a superstore near you!
