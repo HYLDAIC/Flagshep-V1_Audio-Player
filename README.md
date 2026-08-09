@@ -78,4 +78,4 @@ For now, all the following improvements made to this project will made in the fo
 - PocketMage by Ashtf at Talisman Designs (specs & features section and general design inspiration) (https://www.crowdsupply.com/talisman-design/pocketmage)
 ## Firmware
 - Adafruit (GFX & SSD1306)
-- ESP32-audioI2S by Schreibfaul1
+- ESP32-audioI2S by Schreibfaul1 (https://github.com/schreibfaul1/ESP32-audioI2S)
