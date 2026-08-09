@@ -32,6 +32,7 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 - Battery Percentage Chip :  MAX17048G+T10
 - Battery Connector : JST XH-B2B-A
 <img width="776" height="745" alt="image" src="https://github.com/user-attachments/assets/96708ab3-4b12-40bc-a741-b717fe8049a2" />
+
 *Logic Depiction of the Hardware*
 
 
