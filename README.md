@@ -46,7 +46,7 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 - The audio is smooth and doesn't have noticeable glitching or noise within playback
 - A battery life of about 32-40 hours on a 5000mAh battery (~35h of playback in an room varying from 23 to 35 degrees Celsius)
 - A smooth user experience; fairly intuitive button mapping, responsive menus and UI (tested by passing my friends the player and receiving feedback)
-- A easily accessible and removable battery/screen (4 Screws)
+- An easily accessible and removable battery/screen (4 Screws)
 - Fairly resistant; could be dropped several times with no issues to the PCB (1m drop height)
 - The PCB worked first try :)
 
