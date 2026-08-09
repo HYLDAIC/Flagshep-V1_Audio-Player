@@ -58,7 +58,7 @@ The design has notable failure points that can't be addressed in version 1.1 and
 - Components are way too close together making assembly difficult 
 - The lack of a knobs proves more difficult than expected
 - The screen is really small (this was intended but a more substantial screen could've been afforded under this battery capacity)
-- Visible screws 
+- Visible and protruding screws 
 - The battery percentage chip has interference issues with nearby components and should be placed closer to the battery's connector
 
 Issues that weren't but can be easily addressed in version 1.2 :
