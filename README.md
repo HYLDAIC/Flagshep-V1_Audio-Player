@@ -11,7 +11,7 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 - High Quality Audio Diffusion 
 - USB-C Charging and Flashing 
 ## Specifications 
-- **Processor :** ESP32-S3 (2 Core 240MHz, 2.4 GHz Wi-Fi 150 Mbps, Bluetooth 5 (LE) )
+- **Processor :** ESP32 S3 (2 Core 240MHz, 2.4 GHz Wi-Fi 150 Mbps, Bluetooth 5 (LE) )
 - **Audio Quality :** PCM5102A ; 16-32bit at 8kHz to 384kHz
 - **Flash :** 8MB quad SPI Flash
 - **RAM :** 8MB quad SPI SRAM
@@ -33,9 +33,7 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 - Battery Connector : JST XH-B2B-A
 <img width="612" height="579" alt="image" src="https://github.com/user-attachments/assets/79bd4c52-8111-4478-a9ed-d182519d546c" />
 
-
 *Logic Depiction of the Hardware*
-
 
 ## Firmware 
 -Coming soon to a superstore near you!
@@ -59,7 +57,7 @@ The design has notable failure points that weren't or can't be addressed in vers
 # Acknowledgements
 ## Help & Design inspirations 
 - r/PrintedCircuits for help with circuit design (https://www.reddit.com/r/PrintedCircuitBoard/)
-- PocketMage by Ashtf at Talisman Designs (specs & features section and design inspiration) (https://www.crowdsupply.com/talisman-design/pocketmage)
+- PocketMage by Ashtf at Talisman Designs (specs & features section and general design inspiration) (https://www.crowdsupply.com/talisman-design/pocketmage)
 ## Firmware
 - Adafruit (GFX & SSD1306)
 - ESP32-audioI2S by Schreibfaul1
