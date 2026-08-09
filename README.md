@@ -17,7 +17,7 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 - **Display :** 0.96in 128x64px OLED TFT display
 - **Input :** 6 Button Matrix
 - **Storage :** MicroSD card slot
-- **Battery :** 1000 to 5000mAh LiPo with integrated charging and battery management
+- **Battery :** 5000mAh LiPo with integrated charging and battery management
 - **Connectors :** USB Type-C and TRS 3.5mm Audio Jack
 - **Dimensions :** 98.7 x 76.8 x 34.7 mm (length-width-height)
 
@@ -57,7 +57,8 @@ The design has notable failure points that can't be addressed in version 1.1 and
 - Components are way too close together making assembly difficult 
 - The lack of a knobs proves more difficult than expected
 - The screen is really small (this was intended but a more substantial screen could've been afforded under this battery capacity)
-- Visible and protruding screws 
+- Visible and protruding screws
+- Somewhat Heavy (battery)
 - The battery percentage chip has interference issues with nearby components and should be placed closer to the battery's connector
 
 Issues that weren't but can be easily addressed in version 1.2 :
