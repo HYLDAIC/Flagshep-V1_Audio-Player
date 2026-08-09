@@ -31,6 +31,7 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 - Voltage Regulator (LDO) : AP2112K-3.3
 - Battery Percentage Chip :  MAX17048G+T10
 - Battery Connector : JST XH-B2B-A
+  
   <img width="547" height="449" alt="image" src="https://github.com/user-attachments/assets/1f03a311-32c9-4be8-a695-4772c5a1bb5e" />
   *Logic Depiction of the Hardware*
 
