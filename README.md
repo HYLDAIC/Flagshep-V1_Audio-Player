@@ -41,17 +41,25 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 # Enclosure & Build Instructions 
 -Coming soon to a town near you!
 
-# Future Improvements
-The design has notable failure points that weren't or can't be addressed in version 1.1 and would need a more substantial redesign, here are some :
+# Successes & Future Improvements
+## Successes
+- The audio is smooth and doesn't have noticeable glitching or noise within playback
+- A battery life of about 32-40 hours on a 5000mAh battery (~35h of playback in an room varying from 23 to 35 degrees Celsius)
+- A smooth user experience; fairly intuitive button mapping, responsive menus and UI (tested by passing my friends the player and receiving feedback)
+
+## Future Improvements
+The design has notable failure points that can't be addressed in version 1.1 and would need a more substantial redesign, here are some :
 - The circuit drains significant amounts of battery on sleeping parts when the microcontroller is sleeping; physical software activated kill switch needed
-- Due to bad design around the battery; the enclosure is huge
-- The esp32 s3 is realistically overkill for the scope of this project AND wireless isn't the focus and could've been avoided
+- Due to bad design around the battery; the enclosure is huge (height)
+- The ESP32 S3 is realistically overkill for the scope of this project AND wireless isn't the focus and could've been avoided
 - Components are way too close together making assembly difficult 
-- Outside ports are hard to access (too far from outside ridge)
 - The lack of a knobs proves more difficult than expected
 - The screen is really small (this was intended but a more substantial screen could've been afforded under this battery capacity)
 - Visible screws 
 - The battery percentage chip has interference issues with nearby components and should be placed closer to the battery's connector
+
+Issues that weren't but can be easily addressed in version 1.2 :
+- Outside ports are hard to access (too far from outside ridge)
 - Thermal relief for ground pads NEED to be added
 
 # Acknowledgements
