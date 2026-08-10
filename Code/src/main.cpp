@@ -235,8 +235,7 @@ void scanDirectory(File dir, const String &path) {
 void buildPlaylist() {
   trackCount = 0;
 
-  // FILE_WRITE truncates any existing file, so every rebuild starts from a
-  // clean slate - important so removed songs don't linger as stale entries.
+  //FILE_WRITE truncates any existing file, so every rebuild starts from a clean slate
   playlistWriteFile = SD_MMC.open(PLAYLIST_FILE_PATH, FILE_WRITE);
   if (!playlistWriteFile) {
     DBG_PRINTLN("Failed to open playlist file for writing");
@@ -276,8 +275,7 @@ String getTrackPath(int index) {
   String line = f.readStringUntil('\n');
   f.close();
 
-  // println() may have written a trailing '\r' before the '\n' we already
-  // stopped at; strip it so it doesn't end up as part of the path.
+
   while (line.length() > 0 && line.endsWith("\r")) {
     line.remove(line.length() - 1);
   }
@@ -353,7 +351,7 @@ void loadPlaylistIndexFromFile() {
   DBG_PRINT("Loaded playlist index from file, tracks: ");
   DBG_PRINTLN(trackCount);
 
-  // Reset shuffle state since this is effectively a fresh load
+  //Reset shuffle state since this is effectively a fresh load
   shuffleBagSize = 0;
   shuffleBagPos = 0;
   lastShuffledTrack = -1;
@@ -463,7 +461,7 @@ void setupButtonMatrix() {
     digitalWrite(rowPins[r], LOW); // idle LOW
   }
   for (uint8_t c = 0; c < COLS; c++) {
-    pinMode(colPins[c], INPUT_PULLDOWN); // ESP32 has real internal pulldowns
+    pinMode(colPins[c], INPUT_PULLDOWN); //internal pulldowns (compensates for missing 10K's on the PCB)
   }
   for (uint8_t r = 0; r < ROWS; r++) {
     for (uint8_t c = 0; c < COLS; c++) {
