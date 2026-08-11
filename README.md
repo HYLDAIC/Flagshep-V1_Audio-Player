@@ -60,6 +60,7 @@ The design has notable failure points that can't be addressed in version 1.1 and
 - Visible and protruding screws
 - Somewhat Heavy (battery)
 - The battery percentage chip has interference issues with nearby components and should be placed closer to the battery's connector
+- Adding test pads for important signals
 
 Issues that weren't but can be easily addressed in version 1.2 :
 - Outside ports are hard to access (too far from outside ridge)
