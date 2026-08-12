@@ -38,6 +38,11 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 -Coming soon to a superstore near you!
 
 # Enclosure & Build Instructions 
+- M4 screwdriver
+- 12 M4 screws
+- 12 6x6mm (M4) threaded heated inserts
+- Formatted SD Card (FAT32,  exFAT ...)
+- 
 -Coming soon to a town near you!
 
 # Successes & Future Improvements (Hardware focused)
