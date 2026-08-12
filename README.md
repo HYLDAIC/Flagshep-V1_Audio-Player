@@ -35,17 +35,17 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 *Logic Depiction of the Hardware*
 
 ## Firmware 
--Coming soon to a superstore near you!
+-Coming soon to a town near you!
 
-# Enclosure & Build Instructions 
+# Enclosure & Build Instructions (Doesn't include pictures)
 - M4 screwdriver
 - 3D printed parts (Main, Top of your choosing, and Bottom cover)
 - The PCB
-- A Lithium Polymer battery (LiPo) with the connector JST-
+- A flat Lithium Polymer battery (LiPo) with the connector JST-XH 2 pin
 - 12 6-8mm screws M4 screws
 - 12 6x6mm (M4) threaded heated inserts
 - Formatted SD Card (FAT32,  exFAT ...)
-- Computer (Linux and or Windows 10-11)
+- A Computer (Linux and or Windows 10-11) with VS Code and Platformio installed
 - USB-C Data cable
 - Soldering iron
 
@@ -56,7 +56,10 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
   5. Take the PCB and insert it inside the side with 8 screws, it should fit with the bottom four; screw it on (it should match with the outside holes on the side of the Main piece)
   6. Insert and screw in the Top cover with 4 screws
   7. Insert a LiPo battery in the bottom compartment and plug it in
--Coming soon to a town near you!
+  8. Screw in the bottom cover making sure not to break the cable of your battery
+  9. Take a USB-C data cable and plug it into the board and the computer
+  10. Compile the code given in the Github repo (check tutorials online if you are not sure about how to do this)
+  11. Flash the code
 
 # Successes & Future Improvements (Hardware focused)
 ## Successes
