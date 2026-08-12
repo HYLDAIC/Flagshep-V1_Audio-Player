@@ -53,13 +53,14 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
   2. Prepare heated element to 250 degrees Celsius (+/- 30)
   3. Place and slowly push in the threaded heated insert with the soldering iron into the hole until the mounting surface is flat (repeat 12 times)
   4. If the battery connector of the PCB isn't on the bottom face (face with no components), solder it on the bottom making sure to keep the same polarities
-  5. Take the PCB and insert it inside the side with 8 screws, it should fit with the bottom four; screw it on (it should match with the outside holes on the side of the Main piece)
-  6. Insert and screw in the Top cover with 4 screws
-  7. Insert a LiPo battery in the bottom compartment and plug it in
-  8. Screw in the bottom cover making sure not to break the cable of your battery
-  9. Take a USB-C data cable and plug it into the board and the computer
-  10. Compile the code given in the Github repo (check tutorials online if you are not sure about how to do this)
-  11. Flash the code
+  5. Insert the SD card with the audio of your choice
+  6. Take the PCB and insert it inside the side with 8 screws, it should fit with the bottom four; screw it on (it should match with the outside holes on the side of the Main piece)
+  7. Insert and screw in the Top cover with 4 screws
+  8. Insert a LiPo battery in the bottom compartment and plug it in
+  9. Screw in the bottom cover making sure not to break the cable of your battery
+  10. Take a USB-C data cable and plug it into the board and the computer
+  11. Compile the code given in the Github repo (check tutorials online if you are not sure about how to do this)
+  12. Flash the code
 
 # Successes & Future Improvements (Hardware focused)
 ## Successes
