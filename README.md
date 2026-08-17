@@ -97,6 +97,9 @@ Personal issues with the design :
 Apart from version 1.2, I plan to remake the audio player in a couple of years after I have learned more about circuit design and embedded development.
 For now, all the following improvements made to this project will made in the form of sporadic software improvements as I catch problems or wants with the device in my own usage.
 
+# License
+The license only applies to the PCB part of the design, not the code nor the 3D STEP files which are unlicensed
+
 # Acknowledgements
 ## Help & Design inspirations 
 - My non-technical friends for support & UX feedback
