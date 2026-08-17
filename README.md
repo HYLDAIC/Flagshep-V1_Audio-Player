@@ -104,3 +104,8 @@ For now, all the following improvements made to this project will made in the fo
 ## Firmware
 - Adafruit (GFX & SSD1306)
 - ESP32-audioI2S by Schreibfaul1 (https://github.com/schreibfaul1/ESP32-audioI2S)
+
+## Special Mentions 
+The large reason of why I decided to commit to making this audio player was for my love of music that I'm sure others can relate to.
+That said, during the development of the board, one of my favorite band disbanded.
+As an homage to them and what their music meant to me, I chose to immortalize them on the surface of my PCB. 
