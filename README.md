@@ -108,7 +108,8 @@ For now, all the following improvements made to this project will made in the fo
 ## Special Mentions 
 The large reason of why I decided to commit to making this audio player was for my love of music that I'm sure others can relate to.
 That said, during the development of the board, one of my favorite band disbanded.
-As an homage to them and what their music meant to me, I chose to immortalize them on the surface of my PCB. 
+As an homage to them and what their music meant to me, I chose to immortalize them on the surface of my PCB with their most popular instrumental. 
 <img width="837" height="115" alt="image" src="https://github.com/user-attachments/assets/861bfdc2-0752-4035-bb45-0c32a81e760f" />
+
 Again, this is a small tribute, but it may just last forever ;)
 
