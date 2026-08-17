@@ -35,7 +35,8 @@ The **Flagshep** is a semi-portable open-source Audio Player designed to provide
 *Logic Depiction of the Hardware*
 
 ## Firmware 
--Coming soon to a town near you!
+- A simple loop that handles button presses, screen refreshes, audio streaming and battery capacity/optimizations; fairly simple
+- More coming soon to a town near you!
 
 # Enclosure & Build Instructions (Doesn't include pictures)
 - M4 screwdriver
